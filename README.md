@@ -173,4 +173,4 @@ Aspiring Data Analyst
 
 GitHub: https://github.com/swarnimkale1610
 
-LinkedIn: (https://www.linkedin.com/in/swarnim-kale/)
+LinkedIn: https://www.linkedin.com/in/swarnim-kale/
